@@ -17,3 +17,4 @@
 ### Course Projects:
 - 📸 **FACEGATE** [AI Project Workshop] [View](https://github.com/patricioespinozaa/FaceGate/tree/main)
 - 🎵 **Analysis of Spotify Genres through Data Mining Techniques** [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
+- 🏨🌃🍽️ **Restaurants and Airbnbs in NYC** [The Web of Data] [View](https://github.com/javiromeroo/the-web-of-data-project)
