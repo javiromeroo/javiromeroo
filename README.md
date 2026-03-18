@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 🐵</h1>
 
 <p align="center">
-  My name is Javiera, and I'm a Computer Science Engineering and Maters in Data Science Student at the University of Chile.
+  My name is Javiera, and I'm a Computer Science Engineering and Masters in Data Science Student at the University of Chile.
 </p>
 
 ---
