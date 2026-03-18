@@ -8,11 +8,11 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="left">✨ I'm interested in IA and Data Science and Knowledge Graphs.
+<p align="left">✨ I'm interested in IA, Data Science and Knowledge Graphs.
   
 📚 I'm currently learning more about Machine Learning and NLP.
 
-💗 I'm currently a volunteer at Niñas Pro! where i help tutor bright young girls learning how to code! https://ninaspro.cl/#/ 
+💗 I'm currently a volunteer at Niñas Pro! where i help tutor bright young girls in learning how to code! https://ninaspro.cl/#/ 
 
 ### Course Projects:
 - 📸 **FACEGATE** [AI Project Workshop] [View](https://github.com/patricioespinozaa/FaceGate/tree/main)
