@@ -8,7 +8,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="left">✨ I'm interested in IA, Data Science and Knowledge Graphs.
+<p align="left">✨ I'm interested in AI, Data Science and Knowledge Graphs.
   
 📚 I'm currently learning more about Machine Learning and NLP.
 
